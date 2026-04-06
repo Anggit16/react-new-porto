@@ -14,11 +14,11 @@ function App() {
             <q>Semua orang punya peluang untuk Suksesss.😎</q>
           </div>
           <h1 className='text-3xl/tight font-bold mb-6'>Hello Word, Saya Anggit Hardiyanto</h1>
-          <p className='text-base/loose mb-6 opacity-50'>
-            Saya mempunyai ketertarikan dalam bidang Programing dan Desainer, terutama pada bidang pembuatan Website, ketertarikan pada bidang ini sudah berlangsung lebih dari 2 tahun yang lalu.
+          <p className='text-base/loose mb-6 opacity-80'>
+            Saya tertarik pada dunia Programming dan Desain, terutama dalam pembuatan website. Selama lebih dari dua tahun, saya terus belajar dan mengembangkan kemampuan untuk menciptakan website yang menarik, responsif, dan mudah digunakan. Saya senang menggabungkan kreativitas desain dengan logika pemrograman untuk menghasilkan karya yang maksimal.
           </p>
           <div className='flex items-center'>
-            <a href="/assets/files/cv-anggit.pdf" className='bg-green-600 p-4 rounded-2xl hover:bg-green-500'>
+            <a href="/assets/files/cv-anggit2.pdf" className='bg-green-600 p-4 rounded-2xl hover:bg-green-500'>
               Download CV <i className="ri-download-line ri-lg"></i>
             </a>
           </div>

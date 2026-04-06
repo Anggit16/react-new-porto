@@ -101,6 +101,9 @@ export const listTools = [
 import Proyek1 from "/assets/proyek/proyek1.png";
 import Proyek2 from "/assets/proyek/proyek2.png";
 import Proyek3 from "/assets/proyek/proyek3.png";
+import Proyek4 from "/assets/proyek/proyek4.png";
+import Proyek5 from "/assets/proyek/proyek5.png";
+import Proyek6 from "/assets/proyek/proyek6.png";
 
 export const listProyek = [
   {
@@ -115,10 +118,10 @@ export const listProyek = [
   {
     id: 2,
     gambar: Proyek2,
-    nama: "Apk Pemilu",
-    desk: "Aplikasi ini untuk memudahkan user dalam menyalurkan hak suaranya dalam pemilu.",
-    tools: ["Python", "Kivy", "Firebase" ],
-    link: "https://github.com/Anggit16/APK_PEMILU_TGS.git",
+    nama: "Website Company Profile",
+    desk: "Website ini digunakan untuk mengenalkan perusahaan maupun usaha di dunia digital.",
+    tools: ["ReactJS", "TailwindCSS"],
+    link: "https://github.com/Anggit16/profile-sudutjlnkopi.git",
     dad: "300",
   },
   {
@@ -129,5 +132,32 @@ export const listProyek = [
     tools: ["PHP", "HTML", "CSS"],
     link: "https://github.com/Anggit16/event_kampus.git",
     dad: "400",
+  },
+  {
+    id: 4,
+    gambar: Proyek4,
+    nama: "Web Computer Based Test",
+    desk: "Website ini untuk membantu mempermudah proses jalannya ujian/test.",
+    tools: ["Laravel", "HTML", "CSS", "Javascript"],
+    link: "https://github.com/Anggit16/cbt-ai-new.git",
+    dad: "500",
+  },
+  {
+    id: 5,
+    gambar: Proyek5,
+    nama: "Frontend Web E-Katalog Jamu",
+    desk: "Tampilan antarmuka yang modern dan elegan disertai dengan responsive dan interaktif.",
+    tools: ["HTML", "CSS", "Javascript"],
+    link: "https://github.com/Anggit16/katalog-jamu.git",
+    dad: "600",
+  },
+  {
+    id: 6,
+    gambar: Proyek6,
+    nama: "Frontend Web E-Katalog Daging",
+    desk: "Tampilan antarmuka yang modern dan elegan disertai dengan responsive dan interaktif.",
+    tools: ["HTML", "CSS", "Javascript"],
+    link: "https://github.com/Anggit16/ekatalog_tkdaging.git",
+    dad: "700",
   },
 ];
